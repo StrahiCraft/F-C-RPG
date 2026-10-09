@@ -3,6 +3,7 @@ f-c-rpg: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
   CMakeFiles/f-c-rpg.dir/main.cpp.o \
+  /home/strasko/Projects/Irrlicht/F-C-RPG/lib/libIrrlicht.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
@@ -33,7 +34,33 @@ f-c-rpg: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o \
-  /usr/lib/ld-linux-x86-64.so.2
+  /usr/lib32/libGL.so.1 \
+  /usr/lib/libGL.so.1 \
+  /usr/lib32/libXxf86vm.so.1 \
+  /usr/lib/libXxf86vm.so.1 \
+  /usr/lib32/libz.so.1 \
+  /usr/lib/libz.so.1 \
+  /usr/lib32/libjpeg.so.8 \
+  /usr/lib/libjpeg.so.8 \
+  /usr/lib32/libpng16.so.16 \
+  /usr/lib/libpng16.so.16 \
+  /usr/lib32/libbz2.so.1.0 \
+  /usr/lib/libbz2.so.1.0 \
+  /usr/lib/ld-linux-x86-64.so.2 \
+  /usr/lib32/libGLdispatch.so.0 \
+  /usr/lib/libGLdispatch.so.0 \
+  /usr/lib32/libGLX.so.0 \
+  /usr/lib/libGLX.so.0 \
+  /usr/lib32/libXext.so.6 \
+  /usr/lib/libXext.so.6 \
+  /usr/lib32/libX11.so.6 \
+  /usr/lib/libX11.so.6 \
+  /usr/lib32/libxcb.so.1 \
+  /usr/lib/libxcb.so.1 \
+  /usr/lib32/libXau.so.6 \
+  /usr/lib/libXau.so.6 \
+  /usr/lib32/libXdmcp.so.6 \
+  /usr/lib/libXdmcp.so.6
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o:
 
@@ -42,6 +69,8 @@ f-c-rpg: \
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
 
 CMakeFiles/f-c-rpg.dir/main.cpp.o:
+
+/home/strasko/Projects/Irrlicht/F-C-RPG/lib/libIrrlicht.so:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so:
 
@@ -103,4 +132,56 @@ CMakeFiles/f-c-rpg.dir/main.cpp.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o:
 
+/usr/lib32/libGL.so.1:
+
+/usr/lib/libGL.so.1:
+
+/usr/lib32/libXxf86vm.so.1:
+
+/usr/lib/libXxf86vm.so.1:
+
+/usr/lib32/libz.so.1:
+
+/usr/lib/libz.so.1:
+
+/usr/lib32/libjpeg.so.8:
+
+/usr/lib/libjpeg.so.8:
+
+/usr/lib32/libpng16.so.16:
+
+/usr/lib/libpng16.so.16:
+
+/usr/lib32/libbz2.so.1.0:
+
+/usr/lib/libbz2.so.1.0:
+
 /usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib32/libGLdispatch.so.0:
+
+/usr/lib/libGLdispatch.so.0:
+
+/usr/lib32/libGLX.so.0:
+
+/usr/lib/libGLX.so.0:
+
+/usr/lib32/libXext.so.6:
+
+/usr/lib/libXext.so.6:
+
+/usr/lib32/libX11.so.6:
+
+/usr/lib/libX11.so.6:
+
+/usr/lib32/libxcb.so.1:
+
+/usr/lib/libxcb.so.1:
+
+/usr/lib32/libXau.so.6:
+
+/usr/lib/libXau.so.6:
+
+/usr/lib32/libXdmcp.so.6:
+
+/usr/lib/libXdmcp.so.6:

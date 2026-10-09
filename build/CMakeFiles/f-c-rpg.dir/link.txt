@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/f-c-rpg.dir/link.d "CMakeFiles/f-c-rpg.dir/main.cpp.o" -o f-c-rpg
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/f-c-rpg.dir/link.d "CMakeFiles/f-c-rpg.dir/main.cpp.o" -o f-c-rpg  -Wl,-rpath,/home/strasko/Projects/Irrlicht/F-C-RPG/lib /home/strasko/Projects/Irrlicht/F-C-RPG/lib/libIrrlicht.so

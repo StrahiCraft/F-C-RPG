@@ -96,6 +96,7 @@ f__c__rpg_EXTERNAL_OBJECTS =
 f-c-rpg: CMakeFiles/f-c-rpg.dir/main.cpp.o
 f-c-rpg: CMakeFiles/f-c-rpg.dir/build.make
 f-c-rpg: CMakeFiles/f-c-rpg.dir/compiler_depend.ts
+f-c-rpg: /home/strasko/Projects/Irrlicht/F-C-RPG/lib/libIrrlicht.so
 f-c-rpg: CMakeFiles/f-c-rpg.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/strasko/Projects/Irrlicht/F-C-RPG/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable f-c-rpg"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/f-c-rpg.dir/link.txt --verbose=$(VERBOSE)
