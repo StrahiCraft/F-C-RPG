@@ -1,0 +1,3 @@
+/home/strasko/Projects/Irrlicht/F-C-RPG/build/CMakeFiles/f-c-rpg.dir
+/home/strasko/Projects/Irrlicht/F-C-RPG/build/CMakeFiles/edit_cache.dir
+/home/strasko/Projects/Irrlicht/F-C-RPG/build/CMakeFiles/rebuild_cache.dir
